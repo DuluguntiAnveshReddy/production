@@ -1,2 +1,2 @@
-# production
-Web application
+:: production
+Web applications
